@@ -1,8 +1,6 @@
 ---
 name: image-prompt-engineer
-description: 'Ingeniero de prompts para generación de imágenes con IA. Usá esta skill para generar prompts optimizados para Midjourney, DALL-E 3, Stable Diffusion, Flux y Adobe Firefly. Flyers publicitarios, productos de moda, lookbooks, campañas de fútbol, Mundial 2026, TiendaTuti, fondos, composiciones, retratos comerciales. Español a inglés optimizado.'
-argument-hint: 'Describí la imagen que querés generar: producto, estilo, contexto'
-user-invocable: true
+description: Ingeniero de prompts para generacion de imagenes con IA. Usa esta skill para prompts optimizados para Midjourney, DALL-E 3, Stable Diffusion, Flux y Adobe Firefly. Flyers publicitarios, productos de moda, lookbooks, campañas de futbol, Mundial 2026 y TiendaTuti.
 ---
 
 # 🖼️ Image Prompt Engineer — Generación de Imágenes con IA

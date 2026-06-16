@@ -1,8 +1,6 @@
 ---
 name: video-prompt-engineer
-description: 'Ingeniero de prompts para generación de videos con IA. Usá esta skill para prompts optimizados para Sora, Runway Gen-3, Kling AI, Pika Labs, Luma Dream Machine, Stable Video Diffusion. Videos de productos de moda, reels, TikTok, campañas de fútbol, Mundial 2026, animaciones de flyers, TiendaTuti. Español al inglés optimizado.'
-argument-hint: 'Describí el video que querés generar: escena, movimiento, duración, estilo'
-user-invocable: true
+description: Ingeniero de prompts para generacion de videos con IA. Usa esta skill para prompts optimizados para Sora, Runway Gen-3, Kling AI, Pika Labs y Luma Dream Machine. Videos de productos de moda, reels, TikTok, campañas de futbol, Mundial 2026 y TiendaTuti.
 ---
 
 # 🎥 Video Prompt Engineer — Generación de Video con IA

@@ -1,8 +1,6 @@
 ---
 name: instagram-reels
-description: 'Creador de contenido para Instagram: posts de feed, stories, reels con guion completo. Usá esta skill para guiones de reels, ideas de contenido, hooks virales, captions con hashtags, estrategia de carruseles y stories interactivas. TiendaTuti, moda, calzado, sorteos, Mundial 2026. Español argentino, estilo moderno.'
-argument-hint: 'Describí el producto, idea o tema para el contenido de Instagram'
-user-invocable: true
+description: Creador de contenido para Instagram con posts de feed, stories y reels con guion completo. Usa esta skill para guiones de reels, hooks virales, captions con hashtags y estrategia de carruseles. TiendaTuti, moda, calzado, sorteos, Mundial 2026. Español argentino, estilo moderno.
 ---
 
 # 📱 Instagram Reels & Content Creator

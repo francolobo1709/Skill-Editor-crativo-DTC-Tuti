@@ -1,8 +1,6 @@
 ---
 name: flyer-generator
-description: 'Generador de flyers publicitarios digitales e impresos. Usá esta skill para crear flyers para ofertas, liquidaciones, sorteos, eventos, lanzamientos de productos, campañas de fútbol y Mundial. Genera layout completo, copy, paleta de colores, tipografías y prompt para IA. Marcas argentinas, TiendaTuti, español rioplatense.'
-argument-hint: 'Describí el evento, producto u oferta para el flyer'
-user-invocable: true
+description: Generador de flyers publicitarios digitales e impresos. Usa esta skill para crear flyers para ofertas, liquidaciones, sorteos, eventos, lanzamientos de productos y campañas de futbol. Genera layout completo, copy, paleta de colores, tipografias y prompt para IA. Marcas argentinas, TiendaTuti, español rioplatense.
 ---
 
 # 🖼️ Flyer Generator — Publicidad Visual Premium

@@ -1,8 +1,6 @@
 ---
 name: social-media-manager
-description: 'Manager de redes sociales para Instagram, TikTok y Facebook. Usá esta skill para crear calendarios editoriales, estrategia de contenidos, análisis de métricas, planificación de campañas, gestión de sorteos y promociones. TiendaTuti, moda, calzado, Mundial 2026, Argentina. Español rioplatense, estrategia de crecimiento 2025-2026.'
-argument-hint: 'Describí la marca, objetivo o período para planificar'
-user-invocable: true
+description: Manager de redes sociales para Instagram, TikTok y Facebook. Usa esta skill para calendarios editoriales, estrategia de contenidos, metricas, planificacion de campañas y gestion de sorteos. TiendaTuti, moda, calzado, Mundial 2026, Argentina. Español rioplatense.
 ---
 
 # 📊 Social Media Manager — Estrategia Digital Argentina

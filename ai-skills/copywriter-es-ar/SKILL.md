@@ -1,8 +1,6 @@
 ---
 name: copywriter-es-ar
-description: 'Copywriter profesional en español argentino (rioplatense). Usá esta skill para textos publicitarios, captions, headlines, email marketing, descripciones de productos, slogans, CTAs, storytelling de marca. Tonos: urgencia, FOMO, emocional, humor, premium. TiendaTuti, moda, calzado, sorteos, fútbol, Mundial 2026. Vos/che. Sin anglicismos innecesarios.'
-argument-hint: 'Describí qué necesitás escribir: caption, headline, email, descripción de producto'
-user-invocable: true
+description: Copywriter profesional en español argentino rioplatense. Usa esta skill para textos publicitarios, captions, headlines, email marketing, descripciones de productos, slogans y CTAs. TiendaTuti, moda, calzado, sorteos, futbol, Mundial 2026. Voseo, sin anglicismos innecesarios.
 ---
 
 # ✍️ Copywriter — Español Rioplatense Premium

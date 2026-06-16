@@ -1,8 +1,6 @@
 ---
 name: tiktok-creator
-description: 'Creador de contenido para TikTok con guion completo, hooks virales, estructura por segundos, ideas de tendencias, sounds virales y estrategia de crecimiento. Usá esta skill para videos de moda, calzado, sorteos, fútbol, Mundial 2026 y TiendaTuti. Español argentino, formato vertical, algoritmo TikTok 2025-2026.'
-argument-hint: 'Describí el tema, producto o idea para el TikTok'
-user-invocable: true
+description: Creador de contenido para TikTok con guion completo, hooks virales y estructura por segundos. Usa esta skill para videos de moda, calzado, sorteos, futbol, Mundial 2026 y TiendaTuti. Español argentino, formato vertical, algoritmo TikTok 2025-2026.
 ---
 
 # 🎬 TikTok Creator — Contenido Viral desde Argentina

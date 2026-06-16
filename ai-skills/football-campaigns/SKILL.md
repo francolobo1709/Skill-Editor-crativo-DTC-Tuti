@@ -1,8 +1,6 @@
 ---
 name: football-campaigns
-description: 'Campañas de marketing para fútbol y Mundial 2026. Usá esta skill para campañas de la Selección Argentina, sorteos temáticos de fútbol, contenido pre/durante/post partido, flyers de partido, reels futboleros, copywriting con identidad argentina, campañas para equipos de clubes (Boca, River, Racing, Independiente, etc). TiendaTuti fútbol.'
-argument-hint: 'Describí la campaña: partido, equipo, tipo de contenido, objetivo'
-user-invocable: true
+description: Campañas de marketing para futbol y Mundial 2026. Usa esta skill para campañas de la Seleccion Argentina, sorteos de futbol, contenido pre durante y post partido, flyers de partido, reels futboleros y copywriting con identidad argentina. TiendaTuti futbol.
 ---
 
 # ⚽ Football Campaigns — Marketing Deportivo Argentina

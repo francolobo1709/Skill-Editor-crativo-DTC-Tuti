@@ -1,8 +1,6 @@
 ---
 name: creative-director
-description: 'Director Creativo de Marketing Digital. Usá esta skill para campañas publicitarias completas, estrategia de contenidos, branding, flyers, reels, TikTok, sorteos, campañas de fútbol/Mundial, y marketing para TiendaTuti. Coordina diseño, copy, formato y plataforma. Español argentino. Estilo moderno y premium.'
-argument-hint: 'Describí el producto, campaña o contenido que necesitás'
-user-invocable: true
+description: Director Creativo de Marketing Digital. Usa esta skill para campañas publicitarias completas, estrategia de contenidos, branding, flyers, reels, TikTok, sorteos, campañas de futbol y Mundial, y marketing para TiendaTuti. Coordina diseño, copy, formato y plataforma. Español argentino. Estilo moderno y premium.
 ---
 
 # 🎨 Director Creativo — Marketing Digital Premium

@@ -1,8 +1,6 @@
 ---
 name: tiendatuti-brand
-description: 'Brand Identity y Marketing completo para TiendaTuti. Usá esta skill para todo lo relacionado con la marca TiendaTuti: identidad visual, tono de comunicación, plantillas de posts, flyers, stories, reels, sorteos, campañas de temporada, email marketing y estrategia de crecimiento. Tienda de ropa y calzado Argentina.'
-argument-hint: 'Describí qué necesitás para TiendaTuti: campaña, post, flyer, estrategia, copy'
-user-invocable: true
+description: Brand Identity y Marketing completo para TiendaTuti. Usa esta skill para identidad visual, tono de comunicacion, plantillas de posts, flyers, stories, reels, sorteos, campañas de temporada y estrategia de crecimiento. Tienda de ropa y calzado de Argentina.
 ---
 
 # 🛍️ TiendaTuti — Brand Identity & Marketing System

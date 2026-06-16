@@ -1,8 +1,6 @@
 ---
 name: viral-content-generator
-description: 'Generador de contenido viral para redes sociales. Usá esta skill para crear ideas de contenido viral, hooks magnéticos, tendencias adaptadas, formato de videos virales, memes de marca, challenges, UGC campaigns, y estrategias de viralización orgánica. TiendaTuti, moda, fútbol, Argentina, Instagram, TikTok. Psicología de la viralización.'
-argument-hint: 'Describí la marca, producto o tema del que querés generar contenido viral'
-user-invocable: true
+description: Generador de contenido viral para redes sociales. Usa esta skill para ideas de contenido viral, hooks magneticos, tendencias adaptadas, videos virales, challenges y UGC campaigns. TiendaTuti, moda, futbol, Argentina, Instagram, TikTok. Psicologia de la viralizacion.
 ---
 
 # 🔥 Viral Content Generator — Psicología de la Viralización
